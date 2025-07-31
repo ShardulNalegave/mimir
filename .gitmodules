@@ -1,0 +1,3 @@
+[submodule "vendor/ccask"]
+	path = vendor/ccask
+	url = https://github.com/ShardulNalegave/ccask
