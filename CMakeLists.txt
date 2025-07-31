@@ -12,7 +12,8 @@ find_package(Threads REQUIRED)
 set(MIMIR_SOURCES
     "src/main.c"
     "src/server.c"
-    "src/log.cc")
+    "src/log.cc"
+    "src/status.c")
 
 add_executable(mimir ${MIMIR_SOURCES})
 
